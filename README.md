@@ -9,7 +9,3 @@ ssh-keygen -t rsa -b 4096 -C "thuong.ha@gpizzahut.io"
  sad
 
 
-
-  - latitude : -6.2183775405343287
-
-  đâsaaa
